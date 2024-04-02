@@ -24,7 +24,7 @@ export default async function Dashboard() {
   }))
   return (
    <div>
-    <NavBar/>
+    <NavBar color="#0F172A"/>
     <Dropzoner/>
     {/* <div className=" p-12 bg-[#2B2929] dark:bg-slate-800 text-white">
       <div style={{fontSize:32}}>Welcome to bytebox </div>
